@@ -1,0 +1,5 @@
+{
+  "name": "SecondHand Marketplace",
+  "description": "A marketplace for users to buy and sell used items securely with an escrow system, in-app chat with offers, and a comprehensive admin portal for activity monitoring.",
+  "requestFramePermissions": []
+}
